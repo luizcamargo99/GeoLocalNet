@@ -1,0 +1,13 @@
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\bin\Debug\net6.0\GeoLocalNet.dll
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net6.0\GeoLocalNet.csproj.AssemblyReference.cache
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net6.0\GeoLocalNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net6.0\GeoLocalNet.AssemblyInfoInputs.cache
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net6.0\GeoLocalNet.AssemblyInfo.cs
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net6.0\GeoLocalNet.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net6.0\GeoLocalNet.dll
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net6.0\refint\GeoLocalNet.dll
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net6.0\GeoLocalNet.pdb
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\bin\Debug\net6.0\GeoLocalNet.deps.json
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\bin\Debug\net6.0\GeoLocalNet.pdb
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net6.0\ref\GeoLocalNet.dll
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\bin\Debug\net6.0\region-list.json

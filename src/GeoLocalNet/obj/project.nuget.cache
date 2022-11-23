@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W58cZZyNDZ9HPwk9kDGvhqt9vJX3X4bWE+3dYlkp3GPIr2s1MrH5vK6eIzMvOiGZgbRyxEAAomi16wBSobjK+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luiz Camargo\\source\\repos\\GeoLocalNet\\GeoLocalNet\\GeoLocalNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Camargo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Luiz Camargo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

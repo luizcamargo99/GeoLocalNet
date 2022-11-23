@@ -1,0 +1,5 @@
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net5.0\GeoLocalNet.csproj.AssemblyReference.cache
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net5.0\GeoLocalNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net5.0\GeoLocalNet.AssemblyInfoInputs.cache
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net5.0\GeoLocalNet.AssemblyInfo.cs
+C:\Users\Luiz Camargo\source\repos\GeoLocalNet\GeoLocalNet\obj\Debug\net5.0\GeoLocalNet.csproj.CoreCompileInputs.cache
